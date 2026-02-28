@@ -1,5 +1,5 @@
 Flask==3.0.0
 Flask-CORS==4.0.0
-yagmail==1.15.293
+yagmail==0.15.293
 reportlab==4.1.0
 gunicorn==21.2.0
