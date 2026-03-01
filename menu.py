@@ -14,8 +14,6 @@ CORS(app)
 
 EMAIL = "Jeremyodimba322@gmail.com"
 
-MOT DE PASSE VIA RENDER (SÉCURISÉ)
-
 MOT_DE_PASSE = "afad pinb vlzo bjka"
 
 def creer_facture(data):
