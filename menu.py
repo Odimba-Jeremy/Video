@@ -12,8 +12,6 @@ import tempfile
 app = Flask(name)
 CORS(app)
 
-TON EMAIL FIXE
-
 EMAIL = "Jeremyodimba322@gmail.com"
 
 MOT DE PASSE VIA RENDER (SÉCURISÉ)
